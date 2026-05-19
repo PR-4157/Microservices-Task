@@ -141,7 +141,8 @@ The project also demonstrates practical understanding of:
 - Minikube local cluster setup
 - Kubernetes debugging and troubleshooting
 
-Optional ingress configuration was also implemented for external routing and path-based access management.
+Optional ingress configuration was also implemented for external routing and path-based access
+management.
 
 ---
 
